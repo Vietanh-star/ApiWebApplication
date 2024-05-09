@@ -47,8 +47,10 @@ app.UseHttpsRedirection();
 // .WithName("GetWeatherForecast")
 // .WithOpenApi();
 
+// VIET ANH
 // if do not include => Swagger do not work to Controller
 app.MapControllers();
+// VIET ANH
 app.Run();
 
 // record WeatherForecast(DateOnly Date, int TemperatureC, string? Summary)

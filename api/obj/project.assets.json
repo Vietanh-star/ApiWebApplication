@@ -4465,19 +4465,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Admin\\.nuget\\packages\\": {}
+    "C:\\Users\\vieta\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Admin\\Desktop\\WebAppDemo\\api\\api.csproj",
+      "projectUniqueName": "C:\\Users\\vieta\\OneDrive\\Máy tính\\MyWebApp\\ApiWebApplication\\api\\api.csproj",
       "projectName": "api",
-      "projectPath": "C:\\Users\\Admin\\Desktop\\WebAppDemo\\api\\api.csproj",
-      "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Admin\\Desktop\\WebAppDemo\\api\\obj\\",
+      "projectPath": "C:\\Users\\vieta\\OneDrive\\Máy tính\\MyWebApp\\ApiWebApplication\\api\\api.csproj",
+      "packagesPath": "C:\\Users\\vieta\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\vieta\\OneDrive\\Máy tính\\MyWebApp\\ApiWebApplication\\api\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\vieta\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
